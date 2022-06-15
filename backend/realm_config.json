@@ -1,0 +1,8 @@
+{
+    "app_id": "reactjs_realmweb_boilerplate-nmlxv",
+    "config_version": 20210101,
+    "name": "ReactJS_RealmWeb_Boilerplate",
+    "location": "IE",
+    "provider_region": "aws-eu-west-1",
+    "deployment_model": "LOCAL"
+}
